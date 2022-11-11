@@ -4,7 +4,6 @@ body {
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    text-align: center;
 }
 
 .container {
@@ -39,6 +38,7 @@ span {
     width: 200px;
     height: 30px;
     font-size: 20px;
+    text-align: center;
 }
 
 .output-container {
