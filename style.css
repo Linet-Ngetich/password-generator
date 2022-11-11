@@ -35,8 +35,9 @@ span {
     border-radius: 4px;
     padding: 5px 10px;
     box-sizing: border-box;
-    width: 200px;
+    width: 180px;
     height: 30px;
+    font-size: 20px;
 }
 
 .output-container {
